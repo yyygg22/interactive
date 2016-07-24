@@ -1,9 +1,5 @@
-body{
+*{
 	font-family: monospace;
 	text-align: center;
 	font-size: 30px;
-}
-h1{
-	text-align: center;
-	font-family: monospace;
 }
